@@ -12,11 +12,6 @@ I'm a student at **Manado State University** driven by a passion for building sc
 * **Database:** MySQL, PostgreSQL
 * **Learning:** Exploring React.js for robust front-end work.
 
-### 📊 GitHub Stats
-
-[![Fredrik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fredrikktkt&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/fredrikktkt)
-
-
 
 ---
 
