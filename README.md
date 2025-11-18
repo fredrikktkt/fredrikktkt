@@ -10,7 +10,7 @@ I'm a student at **Manado State University** driven by a passion for building sc
 
 * **Primary:** Laravel, PHP
 * **Database:** MySQL, PostgreSQL
-* **Learning:** Exploring Vue.js for robust front-end work.
+* **Learning:** Exploring React.js for robust front-end work.
 
 ### 📊 GitHub Stats
 
